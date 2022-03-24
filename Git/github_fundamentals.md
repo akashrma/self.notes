@@ -33,7 +33,7 @@ This allows you to get a repository onto your hard drive.
 ```
 git fetch
 ```
-Synchronizes changes from the online repo onto your local hard drive. In case of branches present only on the remote repo, you can use `git branch -a` to see all the branches including the local and remote ones.
+Synchronizes changes from the online repo onto your local hard drive. In case of branches present only on the remote repo, you can use `git branch -a` to see all the branches including the local and remote ones. Thus will get you information about the remote repo but not change any branches on your local version.
 
 ```
 git pull
